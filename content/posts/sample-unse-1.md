@@ -17,6 +17,7 @@ Visit the [Hugo](https://gohugo.io) website!
 - Hugo on GitHub Pages: <https://gohugo.io/hosting-and-deployment/hosting-on-github/>
   - Hugo Quickstart: <https://gohugo.io/getting-started/quick-start/>
 - Hugo Beginner Tutorial: <https://cloudcannon.com/community/learn/hugo-beginner-tutorial/>
+- Possible ways of handling forms: <https://forestry.io/blog/5-ways-to-handle-forms-on-your-static-site/>
 - Other:
   - <https://janezhang.ca/posts/building-website-with-hugo/>
   - <https://kinsta.com/blog/hugo-static-site/#how-to-create-a-hugo-site>
