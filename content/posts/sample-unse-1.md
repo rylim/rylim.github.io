@@ -1,7 +1,7 @@
 ---
 title: "Sample UNse Page 1"
 date: 2023-01-03T19:22:45-08:00
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -12,7 +12,7 @@ Visit the [Hugo](https://gohugo.io) website!
 
 ## Some Hugo Resources
 
-- Hugo on Github Pages: <https://gohugo.io/hosting-and-deployment/hosting-on-github/>
+- Hugo on GitHub Pages: <https://gohugo.io/hosting-and-deployment/hosting-on-github/>
   - Hugo Quickstart: <https://gohugo.io/getting-started/quick-start/>
 - Hugo Beginner Tutorial: <https://cloudcannon.com/community/learn/hugo-beginner-tutorial/>
 - Other:
