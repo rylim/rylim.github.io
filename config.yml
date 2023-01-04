@@ -1,0 +1,40 @@
+baseURL: 'https://rylim.github.io/'
+languageCode: 'en-us'
+title: 'Sample UNse Site'
+theme: 'papermod'
+
+enableEmoji: true
+enableInlineShortcodes: true
+
+menu:
+  main:
+    - name: Official (Certified) Character
+      url: official-chars
+      weight: 1
+    - name: Download
+      url: download
+      weight: 2
+    - name: Terms of Use
+      url: terms
+      weight: 3
+    - name: Q & A
+      url: q-a
+      weight: 4
+    - name: Wiki
+      url: https://www.wikipedia.org/
+      weight: 5
+
+params:
+  defaultTheme: auto
+  ShowToc: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+  homeInfoParams:
+    Title: "Sample UNse Site"
+    Content: >
+      Hi there 👋
+      
+      - This is a sample UNse website built using [Hugo](https://gohugo.io) with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) template.
+      
+      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
